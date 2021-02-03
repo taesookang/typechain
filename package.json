@@ -1,0 +1,8 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taesookang/typechain.git",
+  "author": "Taesoo Kang <tarrak123@gmail.com>",
+  "license": "MIT"
+}
